@@ -9,7 +9,7 @@
 ''' <summary>
 ''' This class only used for Connections with PDO
 ''' </summary>
-''' </version>0.1
+''' <version>0.1
 ''' </version>
 ''' <remarks>
 ''' If you need any help, you can Contact me
